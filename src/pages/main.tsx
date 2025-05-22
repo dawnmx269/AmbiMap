@@ -9,7 +9,7 @@ function HomePage() {
       className="black-box"
       onClick={() => navigate('/milk')}
     >
-      Hello World
+      Hello World wowowo
     </div>
   );
 }
